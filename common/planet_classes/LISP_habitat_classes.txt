@@ -29,6 +29,6 @@ pc_LISP_asteroid_habitat = {
 	
 	modifier = {
 		planet_colony_development_speed_mult = 2.0 # Habitats should be fast to colonize
-		pop_environment_tolerance = 0.40
+		pop_environment_tolerance = 0.60
 	}	
 }
